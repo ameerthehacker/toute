@@ -1,0 +1,25 @@
+{
+  "name": "toute",
+  "version": "0.0.0-development",
+  "description": "No more frontend and backend, all is one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ameerthehacker/toute.git"
+  },
+  "keywords": [
+    "frontend",
+    "backend",
+    "one",
+    "all"
+  ],
+  "author": "ameerthehacker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ameerthehacker/toute/issues"
+  },
+  "homepage": "https://github.com/ameerthehacker/toute#readme"
+}
